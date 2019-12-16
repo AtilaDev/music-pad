@@ -1,11 +1,11 @@
-## Music Pad
+# Music Pad
 
 ```
 npm install or yarn
 ```
 
-# Music Library
+## Music Library
 
 ```
-The total samples are 20, they are named pad00.mp3 to pad19.mp3
+The total samples are 20, they are named pad00.mp3 to pad19.mp3 (included)
 ```
